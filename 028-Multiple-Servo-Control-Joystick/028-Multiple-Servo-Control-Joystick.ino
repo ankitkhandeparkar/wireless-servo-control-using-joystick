@@ -1,3 +1,5 @@
+// Author : ANKIT V KHANDEPARKAR
+
 #include <Servo.h>
 
 int joyX = 0;
